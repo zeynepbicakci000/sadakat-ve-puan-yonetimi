@@ -1,2 +1,1 @@
 # sadakat-ve-puan-yonetimi
-Proje işletmelerin müşteri sadakatini arttırmak için kullandıkları bir sistemdir bu sistemde üyeler alışveriş yaptıkça çeşitli seviyelere ulaşırlar ve bu seviyeler sonucunda da  seviyeleri doğru orantılı olacak şekilde hediyeler sunulmaktadır  bu sayede müşterilerin markalara bağımlılığının artması hedeflenmektedir.
