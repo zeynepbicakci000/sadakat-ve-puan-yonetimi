@@ -1,0 +1,1 @@
+# sadakat-ve-puan-yonetimi
